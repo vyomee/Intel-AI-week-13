@@ -12,4 +12,4 @@ torchvision==0.15.1
 numpy
 streamlit==1.19.0
 opencv-python
-altair.vegalite.v3
+altair==4.0
